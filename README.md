@@ -13,7 +13,7 @@ Package Contents:
 
     1 [establishments.json](https://github.com/shriparna/nosql-challenge/blob/main/Resources/establishments.json). JSON input file
 
-    #### Note: Some of the files may be too large to view
+    #### Note: File may be too large to view
 
 
 2. [NoSQL_setup_starter.ipynb](https://github.com/shriparna/nosql-challenge/blob/main/NoSQL_setup_starter.ipynb) Part 1: Database and Jupyter Notebook Set Up and Part 2: Update the Database. Jupyter Notebook file to be evaluated
